@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: b3ql8nyyl-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/b3ql8nyyl-python-gitops
